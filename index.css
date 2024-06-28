@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    padding: none;
+    margin: none;
+    font-family: "comic sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
