@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: none;
     margin: none;
-    font-family: "comic sans MS", "Comic Sans", cursive;
+    font-family: "comic sans MS", "Comic Sans", cursive, Arial, sans-serif;
     text-align: center;
 }
 
