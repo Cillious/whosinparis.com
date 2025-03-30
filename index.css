@@ -6,13 +6,14 @@
     text-align: center;
 }
 body {
-    display: flex
-    flex-flow: column nowrap
+    display: flex;
+    flex-flow: column nowrap;
+    height: 100%
 }
 h1 {
     font-size: 100px;
     text-align: center;
 }
 footer {
-    flex-align: flex-end
+    align-self: flex-end
 }
