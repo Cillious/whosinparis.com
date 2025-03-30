@@ -5,8 +5,14 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-
+body {
+    display: flex
+    flex-flow: column nowrap
+}
 h1 {
     font-size: 100px;
     text-align: center;
+}
+footer {
+    flex-align: flex-end
 }
